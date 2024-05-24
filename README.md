@@ -17,7 +17,8 @@
     * Base de dados do trabalho.
 
 * **trabalho_final_MLP.ipynb**
-    * Notebook principal, mostrando a criação do modelo e aplicação. Além da analise das variáveis.
+    * Notebook principal, mostrando a criação do modelo e aplicação. 
+    * Além da analise das variáveis e utilização do GridSearch.
 * **Augs.ipynb**
     * Notebook onde é mostradado o desenvolvimeto do incremento de dados, e sua execução.
 * **grid_aug.ipynb**
